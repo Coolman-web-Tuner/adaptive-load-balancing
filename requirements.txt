@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+streamlit>=1.35
+
+# Optional (see README "Using PyTorch/TensorFlow instead"):
+# torch>=2.1
